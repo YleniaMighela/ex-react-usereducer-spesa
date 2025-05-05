@@ -1,4 +1,14 @@
 ul {
   line-height: 40px;
   font-size: 20px;
+  list-style: none;
+
+}
+
+button {
+  margin-left: 20px;
+}
+
+span {
+  margin-left: 20px;
 }
